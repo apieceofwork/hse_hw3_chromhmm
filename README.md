@@ -49,7 +49,7 @@ H3k36me3 | H3k36me3.bam
 
 **5) Бонус**
 
-Файл, который загружала в Genome Browser - загружен в github среди файлов под названием (A569_10_bonus_dense_file.bed)
+Новый файл-решение бонуса доступен по ссылке: [A569_10_bonus_dense_file.bed](https://drive.google.com/file/d/1jGn9k-B0dwtM099taTmUukLcdHvu1w0p/view?usp=sharing)
 
 <img width="500" alt="Screenshot 2022-03-28 at 23 00 18" src="https://user-images.githubusercontent.com/57996343/160477433-25f8a3f5-96b9-43cb-9252-d1d5a76212de.png">
 
