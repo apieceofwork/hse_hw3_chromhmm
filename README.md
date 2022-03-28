@@ -1,4 +1,4 @@
-## Домашнее задание № 3
+### Домашнее задание № 3
 
 Ссылка на файл с кодом [Сolab](https://colab.research.google.com/drive/1TWn2Vmt5a2PKRsNF3sisafoI0nqcyC4p?usp=sharing)
 
@@ -51,5 +51,13 @@ H3k36me3 | H3k36me3.bam
 
 Новый файл-решение бонуса доступен по ссылке: [A569_10_bonus_dense_file.bed](https://drive.google.com/file/d/1jGn9k-B0dwtM099taTmUukLcdHvu1w0p/view?usp=sharing)
 
-<img width="500" alt="Screenshot 2022-03-28 at 23 00 18" src="https://user-images.githubusercontent.com/57996343/160477433-25f8a3f5-96b9-43cb-9252-d1d5a76212de.png">
+Скрин из Genome Browser для бонуса:
+
+<img width="1000" alt="Screenshot 2022-03-28 at 23 20 19" src="https://user-images.githubusercontent.com/57996343/160480312-591b92ea-4aed-4410-adba-ca857f59b0f7.png">
+
+
+
+*Я случайно назвала итоговый bonus_dense-файл как А569..., но работала с клеточной линией - А549. На решение задания это никак не влияет. Извините, невнимательная( 
+
+<img width="880" alt="Screenshot 2022-03-28 at 23 18 32" src="https://user-images.githubusercontent.com/57996343/160480043-12fdf20e-7004-42fb-8ac4-322ab762094f.png">
 
