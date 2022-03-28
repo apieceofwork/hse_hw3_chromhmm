@@ -4,8 +4,18 @@
 
 **1) Таблица № 1: 10 гистоновых меток и соответствующих им файлов**
 
-
-
+**Гистоновая метка** | **Файл** | 
+------------ | ------------- | 
+H3k79me2 | H3k79me2.bam
+H3k09ac | H3k09ac.bam
+H4k20me1 | H4k20me1.bam
+H3k04me2 | H3k04me2.bam
+H3k27me3 | H3k27me3.bam
+H3k27ac  |	H3k27ac.bam
+H3k04me3 | H3k04me3.bam
+H3k04me1 | H3k04me1.bam
+H3k09me3 | H3k09me3.bam
+H3k36me3 | H3k36me3.bam
 
 
 **3) Картинки из UCSC Genome Browser
