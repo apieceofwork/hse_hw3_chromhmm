@@ -55,6 +55,7 @@ H3k36me3 | H3k36me3.bam
 
 <img width="900" alt="Screenshot 2022-03-28 at 23 50 53" src="https://user-images.githubusercontent.com/57996343/160485042-da062080-fa54-45e8-8680-f0142b1f5779.png">
 
+<img width="900" alt="Screenshot 2022-03-28 at 23 50 59" src="https://user-images.githubusercontent.com/57996343/160485412-3a27c0ee-7a07-4a58-b93c-4d3de544c8e0.png">
 
 
 
@@ -62,6 +63,5 @@ H3k36me3 | H3k36me3.bam
 *Я случайно назвала итоговый bonus_dense-файл как А569..., но работала с клеточной линией - А549. На решение задания это никак не влияет. Извините, невнимательная( 
 
 <img width="800" alt="Screenshot 2022-03-28 at 23 18 32" src="https://user-images.githubusercontent.com/57996343/160480043-12fdf20e-7004-42fb-8ac4-322ab762094f.png">
-<img width="928" alt="Screenshot 2022-03-28 at 23 50 59" src="https://user-images.githubusercontent.com/57996343/160485173-1fcb8182-0954-4368-9084-2625dce27ebf.png">
 
 
