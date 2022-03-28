@@ -27,8 +27,10 @@ H3k36me3 | H3k36me3.bam
 
 <img width="500" alt="Screenshot 2022-03-28 at 22 32 05" src="https://user-images.githubusercontent.com/57996343/160472781-3b7dde5a-0e17-4854-b8d7-52150ac2d245.png">
 
+**3)Таблица с номерами эпигенетических типов и их характерные эпегенетические метки - не сделано
 
-**3) Картинки из UCSC Genome Browser**
+
+**4) Картинки из UCSC Genome Browser**
 
 <img width="815" alt="Screenshot 2022-03-28 at 21 48 31" src="https://user-images.githubusercontent.com/57996343/160466155-ebb380ca-15ce-49c1-be15-e144a5569d34.png">
 
@@ -38,3 +40,5 @@ H3k36me3 | H3k36me3.bam
 <img width="815" alt="image" src="https://user-images.githubusercontent.com/57996343/160466905-d113d497-304c-48e5-85c6-d92c85597637.png">
 
 <img width="815" alt="Screenshot 2022-03-28 at 21 50 01" src="https://user-images.githubusercontent.com/57996343/160467336-dfe60c35-c7b8-4af4-ade4-fc9063325edc.png">
+
+**5) Бонус
