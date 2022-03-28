@@ -19,6 +19,7 @@ H3k04me1 | H3k04me1.bam
 H3k09me3 | H3k09me3.bam
 H3k36me3 | H3k36me3.bam
 
+
 **2) Картинки-выдача папки ChromHMM**
 
 <img width="500" alt="Screenshot 2022-03-28 at 22 29 39" src="https://user-images.githubusercontent.com/57996343/160472402-56ec4b2e-0c83-4f41-b449-1b4a62b2caa7.png">
@@ -28,6 +29,7 @@ H3k36me3 | H3k36me3.bam
 <img width="500" alt="Screenshot 2022-03-28 at 22 31 34" src="https://user-images.githubusercontent.com/57996343/160472680-1c969ee0-2337-4776-82eb-b3683705a9de.png">
 
 <img width="500" alt="Screenshot 2022-03-28 at 22 32 05" src="https://user-images.githubusercontent.com/57996343/160472781-3b7dde5a-0e17-4854-b8d7-52150ac2d245.png">
+
 
 **3)Таблица с номерами эпигенетических типов и их характерные эпегенетические метки**
 
