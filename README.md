@@ -52,9 +52,9 @@ H3k36me3 | H3k36me3.bam
 
 Скрин из Genome Browser для бонуса:
 
-<img width="1000" alt="Screenshot 2022-03-28 at 23 50 53" src="https://user-images.githubusercontent.com/57996343/160485042-da062080-fa54-45e8-8680-f0142b1f5779.png">
+<img width="800" alt="Screenshot 2022-03-28 at 23 50 53" src="https://user-images.githubusercontent.com/57996343/160485042-da062080-fa54-45e8-8680-f0142b1f5779.png">
 
-<img width="1000" alt="Screenshot 2022-03-28 at 23 50 59" src="https://user-images.githubusercontent.com/57996343/160485412-3a27c0ee-7a07-4a58-b93c-4d3de544c8e0.png">
+<img width="800" alt="Screenshot 2022-03-28 at 23 50 59" src="https://user-images.githubusercontent.com/57996343/160485412-3a27c0ee-7a07-4a58-b93c-4d3de544c8e0.png">
 
 
 
