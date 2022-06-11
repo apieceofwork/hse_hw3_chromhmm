@@ -38,14 +38,13 @@ H3k36me3 | H3k36me3.bam
 
 **4) Картинки из UCSC Genome Browser**
 
-<img width="815" alt="Screenshot 2022-03-28 at 21 48 31" src="https://user-images.githubusercontent.com/57996343/160466155-ebb380ca-15ce-49c1-be15-e144a5569d34.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/57996343/173203656-5e928f36-606e-4f05-a9d3-3c51826566ec.png">
 
-<img width="815" alt="Screenshot 2022-03-28 at 21 48 19" src="https://user-images.githubusercontent.com/57996343/160466773-2152b516-a7e6-457e-9991-85580a759428.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/57996343/173203768-be250587-8026-4707-8933-487719a3e51a.png">
 
 
-<img width="815" alt="image" src="https://user-images.githubusercontent.com/57996343/160466905-d113d497-304c-48e5-85c6-d92c85597637.png">
 
-<img width="815" alt="Screenshot 2022-03-28 at 21 50 01" src="https://user-images.githubusercontent.com/57996343/160467336-dfe60c35-c7b8-4af4-ade4-fc9063325edc.png">
+
 
 **5) Бонус**
 
