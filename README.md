@@ -38,9 +38,10 @@ H3k36me3 | H3k36me3.bam
 
 **4) Картинки из UCSC Genome Browser**
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/57996343/173203656-5e928f36-606e-4f05-a9d3-3c51826566ec.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/57996343/173203656-5e928f36-606e-4f05-a9d3-3c51826566ec.png">
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/57996343/173203768-be250587-8026-4707-8933-487719a3e51a.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/57996343/173203830-191aaeac-5a1d-4e55-868b-71123b97d858.png">
+
 
 
 
