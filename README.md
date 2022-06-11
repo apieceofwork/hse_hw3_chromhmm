@@ -33,6 +33,8 @@ H3k36me3 | H3k36me3.bam
 
 **3)Таблица с номерами эпигенетических типов и их характерные эпегенетические метки**
 
+[Таблицу можно посмотреть по ссылке:](https://docs.google.com/document/d/1aL4TBCNBhI5vj9Pfr9RDAl_SYwFnCeNS/edit?usp=sharing&ouid=118017819976540398082&rtpof=true&sd=true)
+
 
 
 **4) Картинки из UCSC Genome Browser**
