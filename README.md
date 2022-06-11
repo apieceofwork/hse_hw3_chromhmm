@@ -54,7 +54,7 @@ H3k36me3 | H3k36me3.bam
 
 Скрин из Genome Browser для бонуса:
 
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/57996343/173204129-a9fa3db9-1e6b-4723-b9a0-f05396a6b4dd.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/57996343/173206069-b1addcf0-e446-416e-9d76-1d84b7abb386.png">
 
 
 
