@@ -43,6 +43,8 @@ H3k36me3 | H3k36me3.bam
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/57996343/173203830-191aaeac-5a1d-4e55-868b-71123b97d858.png">
 
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/57996343/173204043-f4cddc4c-dc60-471d-9525-0aa9a4a45f93.png">
+
 
 
 
